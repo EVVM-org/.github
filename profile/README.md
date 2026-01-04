@@ -13,11 +13,3 @@ This architecture solves two critical blockchain problems: **scalability** (via 
 💬 [GitHub Discussions](https://github.com/orgs/EVVM-org/discussions)
 𝕏 [Twitter @RollAMate](https://x.com/RollAMate)
 📱 [Telegram Dev Group](https://t.me/EVVMorg)
-
----
-
-<div align="center">
-
-**[evvm.org](https://www.evvm.org)** • Built with ❤️ by the EVVM community
-
-</div>
