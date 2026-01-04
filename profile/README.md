@@ -4,7 +4,7 @@
 
 > Deploy your own blockchain in minutes. No validators, no nodes, no infrastructure.
 
-[![Website](https://img.shields.io/badge/🌐-evvm.info-blue)](https://www.evvm.info)
+[![Website](https://img.shields.io/badge/🌐-evvm.org-blue)](https://www.evvm.org)
 [![Docs](https://img.shields.io/badge/📚-Documentation-green)](https://www.evvm.info)
 
 ## What is EVVM?
