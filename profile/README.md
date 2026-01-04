@@ -8,8 +8,12 @@ This architecture solves two critical blockchain problems: **scalability** (via 
 
 ## Resources
 
-🌐 [Website](https://www.evvm.org)
-📚 [Full Documentation](https://www.evvm.info)
-💬 [GitHub Discussions](https://github.com/orgs/EVVM-org/discussions)
-𝕏 [Twitter @RollAMate](https://x.com/RollAMate)
-📱 [Telegram Dev Group](https://t.me/EVVMorg)
+🌐  [Website](https://www.evvm.org)
+
+📚  [Full Documentation](https://www.evvm.info)
+
+💬  [GitHub Discussions](https://github.com/orgs/EVVM-org/discussions)
+
+𝕏   [Twitter @RollAMate](https://x.com/RollAMate)
+
+📱  [Telegram Dev Group](https://t.me/EVVMorg)
