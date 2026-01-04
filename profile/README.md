@@ -1,4 +1,4 @@
-![backgroundBanner](https://github.com/user-attachments/assets/8fd9cab7-5041-4d85-ae63-a48851e270ce)
+![backgroundBanner](https://github.com/user-attachments/assets/61fe59e0-f73f-42e7-86ef-1c9b303cf597)
 
 ## What is EVVM?
 
