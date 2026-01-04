@@ -6,6 +6,8 @@
 
 [![Website](https://img.shields.io/badge/🌐-evvm.org-blue)](https://www.evvm.org)
 [![Docs](https://img.shields.io/badge/📚-Documentation-green)](https://www.evvm.info)
+[![Twitter](https://img.shields.io/badge/X-@RollAMate-black?logo=x)](https://x.com/RollAMate)
+[![Telegram](https://img.shields.io/badge/Telegram-Dev_Group-blue?logo=telegram)](https://t.me/EVVMorg)
 
 ## What is EVVM?
 
